@@ -71,7 +71,12 @@ Isso reforça um princípio central de análise financeira: **conclusões basead
 
 Este projeto tem fins **educacionais**. Não constitui recomendação de investimento. Dados obtidos via Yahoo Finance; taxa livre de risco aproximada pela Selic vigente.
 
+<<<<<<< HEAD
 ## 👤 Autor
 
 Alessandro Silva — Projeto desenvolvido como estudo prático de Análise de Dados aplicada a Finanças.
 [(https://www.linkedin.com/in/alessandro-m-silva/)] · [https://github.com/AlessandroSilva13]
+=======
+Projeto desenvolvido como estudo prático de Caso
+Análise de Dados aplicada a Finanças.
+>>>>>>> 659c80a116d7ba3ed62e1ab481d2201eb6224a7b
