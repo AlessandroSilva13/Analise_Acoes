@@ -73,5 +73,5 @@ Este projeto tem fins **educacionais**. Não constitui recomendação de investi
 
 ## 👤 Autor
 
-[Seu nome] — Projeto desenvolvido como estudo prático de Análise de Dados aplicada a Finanças.
-[LinkedIn] · [GitHub]
+Alessandro Silva — Projeto desenvolvido como estudo prático de Análise de Dados aplicada a Finanças.
+[(https://www.linkedin.com/in/alessandro-m-silva/)] · [https://github.com/AlessandroSilva13]
