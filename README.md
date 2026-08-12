@@ -71,7 +71,5 @@ Isso reforça um princípio central de análise financeira: **conclusões basead
 
 Este projeto tem fins **educacionais**. Não constitui recomendação de investimento. Dados obtidos via Yahoo Finance; taxa livre de risco aproximada pela Selic vigente.
 
-## 👤 Autor
-
-[Seu nome] — Projeto desenvolvido como estudo prático de Análise de Dados aplicada a Finanças.
-[LinkedIn] · [GitHub]
+Projeto desenvolvido como estudo prático de Caso
+Análise de Dados aplicada a Finanças.
